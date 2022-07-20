@@ -29,6 +29,10 @@
 .flex-ai-c {
   align-items: center;
 }
+
+.flex-jc-c {
+  justify-content: center;
+}
 /* ############## */
 
 img {
@@ -51,6 +55,7 @@ body {
   font-family: var(--ff-main);
   font-size: var(--fs-p);
   color: var(--clr-card-content);
+  /* gap: 30px; */
 }
 
 .card {
@@ -60,12 +65,12 @@ body {
   background-color: var(--clr-card);
   margin: 0 auto;
   border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
 }
 
 .qr-code {
   padding: 1em 1em 0;
   border-radius: 10px;
-  /* background-color: blue; */
 }
 
 .qr-code-img {
@@ -73,7 +78,7 @@ body {
 }
 
 .card-content {
-  padding: 2em 2em 2.5em;
+  padding: 1.6em 2em 2.5em;
   text-align: center;
 }
 
