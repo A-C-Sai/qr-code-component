@@ -21,8 +21,8 @@ Building a QR code componenet
 
 ### Links
 
-- Solution URL: (https://github.com/A-C-Sai/qr-code-component)
-- Live Site URL: (https://a-c-sai.github.io/qr-code-component/)
+- Solution URL: [Repository link](https://github.com/A-C-Sai/qr-code-component)
+- Live Site URL: [Live Site link](https://a-c-sai.github.io/qr-code-component/)
 
 ## My process
 
