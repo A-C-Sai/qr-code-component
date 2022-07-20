@@ -11,8 +11,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 Building a QR code componenet
@@ -23,8 +21,8 @@ Building a QR code componenet
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/A-C-Sai/qr-code-component)
-- Live Site URL: [Add live site URL here](https://a-c-sai.github.io/qr-code-component/)
+- Solution URL: (https://github.com/A-C-Sai/qr-code-component)
+- Live Site URL: (https://a-c-sai.github.io/qr-code-component/)
 
 ## My process
 
