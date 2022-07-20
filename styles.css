@@ -41,8 +41,13 @@ img {
 }
 
 html,
-body {
+body,
+main {
   min-height: 100vh;
+}
+
+main {
+  min-width: 100vw;
 }
 
 h1,
